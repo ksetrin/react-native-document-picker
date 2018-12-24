@@ -62,7 +62,7 @@ const Types = {
     'video': 'video/*',
   },
   utis: {
-    'allFiles': 'public.content',
+    'allFiles': 'public.item', // https://developer.apple.com/library/archive/documentation/Miscellaneous/Reference/UTIRef/Articles/System-DeclaredUniformTypeIdentifiers.html#//apple_ref/doc/uid/TP40009259-SW1
     'audio': 'public.audio',
     'images': 'public.image',
     'plainText': 'public.plain-text',
